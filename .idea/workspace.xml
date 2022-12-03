@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f79b3548-381d-4587-958f-2ec0786682ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CalculateBMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShowGreetings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CalculateBMI">
+  <component name="RunManager" selected="Application.ShowGreetings">
     <configuration name="CalculateBMI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CalculateBMI" />
       <module name="Introduction" />
@@ -74,8 +74,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ShowGreetings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShowGreetings" />
+      <module name="Introduction" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShowGreetings" />
         <item itemvalue="Application.CalculateBMI" />
         <item itemvalue="Application.LeapYear" />
         <item itemvalue="Application.DemoArray" />
@@ -93,7 +101,7 @@
       <updated>1669883412369</updated>
       <workItem from="1669883413668" duration="5799000" />
       <workItem from="1669957401264" duration="5178000" />
-      <workItem from="1670036658074" duration="3229000" />
+      <workItem from="1670036658074" duration="3540000" />
     </task>
     <servers />
   </component>
