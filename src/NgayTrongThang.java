@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 
+
 public class NgayTrongThang {
     public static void main(String[] args) {
         int result;
@@ -16,11 +17,11 @@ public class NgayTrongThang {
                 case 6:
                 case 9:
                 case 11:
-                    System.out.println("Tháng "+month+" Có 31 Ngày");
+                    System.out.println("Tháng "+month+" Có 30 Ngày");
                     break;
-                default:{
-                    System.out.println("thang "+ month +" Co 30 ngay");
-                }
+                default:
+                    System.out.println("thang "+ month +" Co 31 ngay");
+
             }
         }else {
             System.out.println("Thang Khong Dung");
